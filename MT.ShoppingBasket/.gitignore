@@ -1,0 +1,27 @@
+# Build artifacts
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+
+# User-specific files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.slnx
+
+# Database and cache files
+*.db
+*.db-shm
+*.db-wal
+
+# IDE and tooling
+.idea/
+*.log
+*.cache
+*.DS_Store
+
+# Optional: ignore test results
+TestResults/
