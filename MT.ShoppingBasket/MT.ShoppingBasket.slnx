@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+    <File Path="ReadMe.md" />
+  </Folder>
+  <Project Path="MT.Basket/MT.Basket.csproj" />
+  <Project Path="MT.Catalogue/MT.Catalogue.csproj" />
+  <Project Path="MT.Domain/MT.Domain.csproj" />
+  <Project Path="MT.Offers/MT.Offers.csproj" />
+  <Project Path="MT.Pricing.Tests/MT.Pricing.Tests.csproj" />
+  <Project Path="MT.Pricing/MT.Pricing.csproj" />
+</Solution>
